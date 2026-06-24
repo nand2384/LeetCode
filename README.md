@@ -15,9 +15,9 @@ My LeetCode problem-solving repository containing solutions, notes, and algorith
 leetcode-solutions/
 │
 ├── DSA/
-│   ├── 0001-Two-Sum.ts
-│   ├── 0002-Add-Two-Numbers.ts
-│   ├── 0003-Longest-Substring-Without-Repeating-Characters.ts
+│   ├── 1-TwoSum.ts
+│   ├── 2-AddTwoNumbers.ts
+│   ├── 3-LongestSubstringWithoutRepeatingCharacters.ts
 │   └── ...
 │
 ├── SQL/
